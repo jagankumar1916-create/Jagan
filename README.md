@@ -5,3 +5,4 @@ Write a Java code to assign grade to a student who has marks above 90. Check if 
 Write a Java code for a simple calculator.
 Find the sum and average of the array.
 Write a Java code for adding rows in a matrix.
+Write a Java code by using 3 methods of String.

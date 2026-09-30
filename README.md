@@ -13,3 +13,4 @@ Write a Java code for counting vowels in a string.
 Write a Java code for reversing an array in place.
 Find the second largest element in an array.
 Write a Java code to create hierarchy with class Animal and subclasses Dog and Rabbit.
+Write Java code for method overriding where each class inherits toString() from Object and overrides it to see how the object can be printed.

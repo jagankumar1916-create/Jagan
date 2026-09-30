@@ -17,3 +17,4 @@ Write Java code for method overriding where each class inherits toString() from 
 Write a Java code to implement abstraction by using Shape and 2 subclasses which can have the functionality in different ways.
 Create a class which can be shared by two objects (students) for storing name and marks in a subject.
 Write a Java program to add, remove, and iterate over tasks using an ArrayList.
+Write a Java program using try, catch, and finally blocks for an arithmetic exception or array index out of bounds exception

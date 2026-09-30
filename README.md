@@ -8,3 +8,4 @@ Write a Java code for adding rows in a matrix.
 Write a Java code by using 3 methods of String.
 Write a code by splitting a sentence into words and then rebuild it in a new format.
 Find the largest element in an array.
+Write code for Selection Sort and Insertion Sort.

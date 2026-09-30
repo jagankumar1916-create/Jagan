@@ -10,3 +10,4 @@ Write a code by splitting a sentence into words and then rebuild it in a new for
 Find the largest element in an array.
 Write code for Selection Sort and Insertion Sort.
 Write a Java code for counting vowels in a string.
+Write a Java code for reversing an array in place.

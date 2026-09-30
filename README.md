@@ -19,3 +19,4 @@ Create a class which can be shared by two objects (students) for storing name an
 Write a Java program to add, remove, and iterate over tasks using an ArrayList.
 Write a Java program using try, catch, and finally blocks for an arithmetic exception or array index out of bounds exception
 Write a Java program to access and remove elements from a LinkedList using its operations.
+Write a Java program to add, remove, and iterate over tasks using an ArrayList.

@@ -15,3 +15,4 @@ Find the second largest element in an array.
 Write a Java code to create hierarchy with class Animal and subclasses Dog and Rabbit.
 Write Java code for method overriding where each class inherits toString() from Object and overrides it to see how the object can be printed.
 Write a Java code to implement abstraction by using Shape and 2 subclasses which can have the functionality in different ways.
+Create a class which can be shared by two objects (students) for storing name and marks in a subject.
